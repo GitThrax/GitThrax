@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Capstone Project about creating a Kiosk Using Raspberry pi<br>👯 I’m looking to collaborate on Database stuff<br>🤝 I’m looking for help with Managing a Database <br>🌱 I’m currently learning Raspberry pi and JavaScript<br>💬 Ask me about games , hobby , books<br>⚡ Fun fact about me is I'm to lazy to work in any project xD
+🔭 I’m currently working on Capstone Project about creating a Kiosk Using Raspberry pi<br>👯 I’m looking to collaborate on Database stuff<br>🤝 I’m looking for help with Database stuff <br>🌱 I’m currently learning Raspberry pi and JavaScript<br>💬 Ask me about games , hobby , books<br>⚡ Fun fact about me is I'm to lazy to work in any project xD
 
 
 ## 🌐 Socials:
